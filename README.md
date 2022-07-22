@@ -3,7 +3,7 @@
 
 ## 1. 需要您安装NMAP，https://nmap.org/download。
 
-## 2. 需要更新安装Python模块
+## 2. 需要更新安装Python模块(请使用Python3)
     pip install requests
     pip install python-nmap
     
