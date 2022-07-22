@@ -7,7 +7,7 @@
     pip install requests
     pip install python-nmap
     
-## 3. 在test.txt中放入地址段(仅支持IP和地址段哦)
+## 3. 在test.txt中放入地址段(仅支持IP和地址段哦);每个IP或者地址段占一行哦。
 
 ## 4. 执行Python sunlogin_exp_for_tututu.py
 
