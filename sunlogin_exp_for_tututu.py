@@ -50,7 +50,7 @@ def run(ip):
     try:
         cid = get_CID(host)
         if cid != []:
-            command = str('\"vulnerable!\"')
+            command = str('echo vulnerable!')
             if command != 'q':
                 get_exp(host, cid, command)
             else:
