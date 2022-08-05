@@ -11,7 +11,7 @@
 
 ## 4. 执行Python sunlogin_exp_for_tututu.py
 
-执行情况:
+执行情况（IP个数越多执行越慢,需要耐心等待哦）:
 ```
 (管理员权限启动CMD.exe)
 PS D:\> python .\sunlogin_exp_for_tututu.py
